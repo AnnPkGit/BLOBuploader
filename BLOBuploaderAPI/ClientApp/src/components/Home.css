@@ -1,0 +1,45 @@
+﻿.centerDiv {
+    margin: auto;
+    margin-top: 10%;
+    width: 400px;
+    padding: 10px;
+    background-color: #DDDCF2;
+    border-radius: 10px
+}
+
+    .centerDiv div {
+        margin: 10px;
+        padding: 10px;
+        background-color: white;
+        border-radius: 10px
+    }
+
+.inputStyle {
+    margin-top: 10px;
+    width: 100%;
+    background-color: #DDDCF2;
+    border: 4px solid #DDDCF2;
+    border-radius: 5px
+}
+
+.inputBtn {
+    margin-top: 10px;
+    width: 100%;
+    border: 4px solid #00C382;
+    border-radius: 5px;
+    background-color: #00C382;
+}
+
+    .inputBtn:active {
+        margin-top: 10px;
+        width: 100%;
+        border: 4px solid #00FF44;
+        border-radius: 5px;
+        background-color: #00FF44;
+    }
+
+label {
+    font-weight: bold;
+    color: darkslategrey;
+    margin: auto;
+}
